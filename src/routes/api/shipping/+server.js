@@ -6,7 +6,7 @@ import { emailTemplate } from "$lib/server/emailTemplate";
 const client = new SMTPClient({
     user: "angus.paillaugue40@gmail.com",
     password: EMAIL_APP_PASSWORD,
-    host: `smtp.gmail.com`,
+    host: `smtp-relay.brevo.com`,
     ssl: true,
 });
 
