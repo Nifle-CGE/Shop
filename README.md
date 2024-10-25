@@ -6,7 +6,7 @@
  - [x] Make coupon codes work in checkout
  - [x] Finish the checkout page
  - [x] Make a order tracking page
- - [x] Send a mail withe the tracking page url to confirm order
+ - [x] Send a mail with the tracking page url to confirm order
  - [x] Put page metadata
  - [x] Make the tracking page
  - [x] Build website on Vercel :
